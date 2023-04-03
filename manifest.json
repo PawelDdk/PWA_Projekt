@@ -1,0 +1,17 @@
+{
+    "name": "Przewodnik po Warszawie",
+    "short_name": "WarszawaAPP",
+    "theme_color": "#f50b19",
+    "background_color": "#f5034c",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/PWA_Projekt/index.html",
+    "icons": [
+        {
+            "src" : "./img/icon.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+  }
